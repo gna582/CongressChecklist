@@ -1,8 +1,5 @@
 ## ⏰ Things to do before traveling
 - Charge ALL the batteries!
-- Make backups.
-- Bonus points for even testing restore.
-- Update all the software on your devices.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - Water your plants.
 
@@ -20,13 +17,11 @@
 - Credit card
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
     - German cards can be locked via the [locking hotline][34] 116 116 (or +49 - 30 4050 4050)
-    - For your Bankomat Karte (EC debit card) check if the “Geo Control” of your bank allows withdrawing in your destination country.
-
+    
 ### Personal hygiene
 - Tooth brush (plus charger if it is an electrical one)
 - Toothpaste
 - Dental floss
-- Shower gel
 - Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Disinfectants
@@ -101,17 +96,10 @@ You'll forget at least one anyway, so don't worry. Bring a spare to help out fri
 
 ##### Networking (wired and wireless)
 - Ethernet cords (Cat5e) of multiple lengths (bring a spare to tether a friend)
+- Switch + Power
 
 ##### Audio
 - 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
-
-
-#### Mobile and Communications
-- Phones
-	- Mobile phone (GSM) one each
-		- for your day-to-day SIM card
-		- for an optional SIM card of the country you travel to
-		- for a local GSM network at the venue,
 
 #### Other
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
