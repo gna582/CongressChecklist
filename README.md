@@ -4,7 +4,8 @@
 - Water your plants.
 
 ### Food & Drinks
-Don't forget the obvious on the way ;)
+ - Food
+ - Drinks
 
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41])
