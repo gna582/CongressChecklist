@@ -3,6 +3,9 @@
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - Water your plants.
 
+### Food & Drinks
+Don't forget the obvious on the way ;)
+
 ### Documents
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41])
 - Tickets (printed or digital. iOS passbook/wallet, PDF)
