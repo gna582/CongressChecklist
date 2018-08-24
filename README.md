@@ -102,8 +102,8 @@ You'll forget at least one anyway, so don't worry. Bring a spare to help out fri
 - 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
 
 #### Other
-- Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
-- Headlamp
+- Torch/Headlamp (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
+- GameController
 - Headphones (Closed type) (so you don't have to talk/listen to other carbon units while traveling)
 - Neck cushion (for long journeys)
 - Screw drivers, pit set
