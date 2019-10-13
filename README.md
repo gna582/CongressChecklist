@@ -94,9 +94,14 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Kindle
 - An actual book (for those offline blackout moments), see [B.O.O.K.][32]
 
-
 #### Cables and Adapters (Dongles)
 You'll forget at least one anyway, so don't worry. Bring a spare to help out friends!
+- Kaltgeräteanschschlusskabel
+- Displayport
+
+#### Devices
+- Keyboard
+- Mouse
 
 ##### Networking (wired and wireless)
 - Ethernet cords (Cat5e) of multiple lengths (bring a spare to tether a friend)
