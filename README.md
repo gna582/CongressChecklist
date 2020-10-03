@@ -65,6 +65,7 @@ Check the expiry date of the meds you bring.
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - Long sleeve shirts
 - Hoodies, pullovers, zippers, vests (it's cold outside!)
+- Sleep clothing
 - Jacket, coat (wind proof, at least somewhat water resistant)
 - Comfortable shoes (You'll cover a lot of distance-units during your stay)
 - Cap, wool cap
