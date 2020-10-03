@@ -97,7 +97,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 
 #### Cables and Adapters (Dongles)
 You'll forget at least one anyway, so don't worry. Bring a spare to help out friends!
-- Kaltgeräteanschschlusskabel
+- Kaltgeräteanschlusskabel
 - Displayport
 
 #### Devices
